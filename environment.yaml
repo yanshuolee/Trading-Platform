@@ -1,0 +1,7 @@
+name: trading_platform
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - pip:
+      - flask==2.2.5

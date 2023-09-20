@@ -1,8 +1,15 @@
-# Trading-Platform
+# Trading Platform
+# User Interface
 ![Alt Text](./assets/trading-platform.png)
 
-
 # Prerequisite
+- Visual Studio 2022
+- Python 3.7
+
+To install the dependencies, use the provided `environment.yaml` file
+```
+conda env create -f environment.yaml
+```
 
 # Run the platform
 ### Step 1
